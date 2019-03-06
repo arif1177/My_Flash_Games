@@ -1,0 +1,8 @@
+To play - 
+1. You need to have adobe flash player. Otherwise, install from adobe’s official site.
+2. Double click on the swf file to run it (you may need to give permission to run flash player)
+3. If clicking does not run the file, just go to http://flashplayer.fullstacks.net/ and upload the .swf file. Set size as 800 by 800px (like before, may need to permit web browser to run flash content).
+
+
+Personal notes: I made it long before (2010) using adobe flash and actionscript 3.0. It was advanced programming course and I did not even require to make it graphical. However, I felt that it would be nice to make it in forms of an actual game and as well as a good learning experince. The heuristic algorithms (below the game canvas) were also implemented in actionscipt.
+Anyway, enjoy the game! It would give some trouble running it. But should be fine if you follow the above instruction.
